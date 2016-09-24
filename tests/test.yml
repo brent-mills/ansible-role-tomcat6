@@ -6,4 +6,5 @@
       - openjdk-8-jdk
   roles:
     - geerlingguy.java
-    - { role: ansible-role-tomcat8, tomcat8_enabled: false }
+    - role: ansible-role-tomcat8
+      tomcat8_enabled: false
