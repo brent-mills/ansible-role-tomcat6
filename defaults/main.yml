@@ -2,5 +2,5 @@
 tomcat8_enabled: true
 tomcat8_hostname: localhost
 tomcat8_server_port: 8005
-tomcat8_catalina_port: 8983
+tomcat8_catalina_port: 8080
 tomcat8_catalina_redirect_port: 8443
